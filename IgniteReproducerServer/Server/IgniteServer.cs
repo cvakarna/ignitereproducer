@@ -22,7 +22,7 @@ namespace IgniteReproducerServer.Server
             try
             {
               
-                 this._ignite = Ignition.Start("D:\\projects\\R&D\\IgniteReproducerServer\\Server\\server-config.xml"); //configuration
+                 this._ignite = Ignition.Start(configPath); //configuration
                                                                                                                            // Activate the cluster.
                 // This is required only if the cluster is still inactive.
                 this._ignite.GetCluster().SetActive(true);
@@ -87,6 +87,11 @@ namespace IgniteReproducerServer.Server
             return cacheConfig;
         }
 
+        /// <summary>
+        /// Create List of QueryEntity 
+        /// NOTE: WE WILL ADD NEW QUERYENTITY by Uncommenting bellow  after ignite stop and aganin ignite reestart
+        /// </summary>
+        /// <returns></returns>
         private async Task<List<QueryEntity>> GetQueryEntities()
         {
             var studentquery = new QueryEntity(typeof(string), typeof(Student))
@@ -95,12 +100,12 @@ namespace IgniteReproducerServer.Server
                  new QueryIndex( new string[]{ "Year"})
                }
             };
-            var lectquery = new QueryEntity(typeof(string), typeof(Lecturer))
-            {
-                Indexes = new List<QueryIndex>() {
-                 new QueryIndex( new string[]{ "Id"})
-               }
-            };
+            //var lectquery = new QueryEntity(typeof(string), typeof(Lecturer))
+            //{
+            //    Indexes = new List<QueryIndex>() {
+            //     new QueryIndex( new string[]{ "Id"})
+            //   }
+            //};
             var queryList = new List<QueryEntity> { studentquery };
             return queryList;
         }
