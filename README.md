@@ -49,5 +49,5 @@ var lectquery = new QueryEntity(typeof(string), typeof(Lecturer))
    
    
 4.Run ServiceAppReproducer will get error
-
+![Exception](https://user-images.githubusercontent.com/34210823/65499251-f4a1ec00-deda-11e9-8cff-272aa17715db.png)
 
