@@ -1,0 +1,9 @@
+D:\projects\R&D\BusinnesModels\bin\Debug\netstandard2.0\BusinnesModels.deps.json
+D:\projects\R&D\BusinnesModels\bin\Debug\netstandard2.0\BusinnesModels.dll
+D:\projects\R&D\BusinnesModels\bin\Debug\netstandard2.0\BusinnesModels.pdb
+D:\projects\R&D\BusinnesModels\obj\Debug\netstandard2.0\BusinnesModels.csproj.CoreCompileInputs.cache
+D:\projects\R&D\BusinnesModels\obj\Debug\netstandard2.0\BusinnesModels.AssemblyInfoInputs.cache
+D:\projects\R&D\BusinnesModels\obj\Debug\netstandard2.0\BusinnesModels.AssemblyInfo.cs
+D:\projects\R&D\BusinnesModels\obj\Debug\netstandard2.0\BusinnesModels.dll
+D:\projects\R&D\BusinnesModels\obj\Debug\netstandard2.0\BusinnesModels.pdb
+D:\projects\R&D\BusinnesModels\obj\Debug\netstandard2.0\BusinnesModels.csprojAssemblyReference.cache

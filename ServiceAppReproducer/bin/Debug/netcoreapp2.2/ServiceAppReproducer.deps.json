@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "4a15fbc59b3105da6f1c9bd55c6f71d0443dbc3c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ServiceAppReproducer/1.0.0": {
+        "dependencies": {
+          "Apache.Ignite": "2.7.5",
+          "BusinnesModels": "1.0.0"
+        },
+        "runtime": {
+          "ServiceAppReproducer.dll": {}
+        }
+      },
+      "Apache.Ignite/2.7.5": {
+        "runtime": {
+          "lib/net40/Apache.Ignite.Core.dll": {
+            "assemblyVersion": "2.7.5.38033",
+            "fileVersion": "2.7.5.38033"
+          },
+          "lib/net40/Apache.Ignite.exe": {
+            "assemblyVersion": "2.7.5.38033",
+            "fileVersion": "2.7.5.38033"
+          }
+        }
+      },
+      "BusinnesModels/1.0.0": {
+        "dependencies": {
+          "Apache.Ignite": "2.7.5"
+        },
+        "runtime": {
+          "BusinnesModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceAppReproducer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.Ignite/2.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jNciNsSqwmHYKNshUOpsF3QSCfhfW8FIq6VDuU9Ro85JqWw9kmiFKJ7g5huM1NnEJUrV7U3guAwsHs4nF78d2A==",
+      "path": "apache.ignite/2.7.5",
+      "hashPath": "apache.ignite.2.7.5.nupkg.sha512"
+    },
+    "BusinnesModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

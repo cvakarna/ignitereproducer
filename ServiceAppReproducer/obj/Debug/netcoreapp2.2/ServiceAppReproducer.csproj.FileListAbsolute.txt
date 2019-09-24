@@ -1,0 +1,13 @@
+D:\projects\R&D\ServiceAppReproducer\bin\Debug\netcoreapp2.2\ServiceAppReproducer.deps.json
+D:\projects\R&D\ServiceAppReproducer\bin\Debug\netcoreapp2.2\ServiceAppReproducer.runtimeconfig.json
+D:\projects\R&D\ServiceAppReproducer\bin\Debug\netcoreapp2.2\ServiceAppReproducer.runtimeconfig.dev.json
+D:\projects\R&D\ServiceAppReproducer\bin\Debug\netcoreapp2.2\ServiceAppReproducer.dll
+D:\projects\R&D\ServiceAppReproducer\obj\Debug\netcoreapp2.2\ServiceAppReproducer.csproj.CoreCompileInputs.cache
+D:\projects\R&D\ServiceAppReproducer\obj\Debug\netcoreapp2.2\ServiceAppReproducer.AssemblyInfoInputs.cache
+D:\projects\R&D\ServiceAppReproducer\obj\Debug\netcoreapp2.2\ServiceAppReproducer.AssemblyInfo.cs
+D:\projects\R&D\ServiceAppReproducer\bin\Debug\netcoreapp2.2\ServiceAppReproducer.pdb
+D:\projects\R&D\ServiceAppReproducer\bin\Debug\netcoreapp2.2\BusinnesModels.dll
+D:\projects\R&D\ServiceAppReproducer\bin\Debug\netcoreapp2.2\BusinnesModels.pdb
+D:\projects\R&D\ServiceAppReproducer\obj\Debug\netcoreapp2.2\ServiceAppReproducer.csproj.CopyComplete
+D:\projects\R&D\ServiceAppReproducer\obj\Debug\netcoreapp2.2\ServiceAppReproducer.dll
+D:\projects\R&D\ServiceAppReproducer\obj\Debug\netcoreapp2.2\ServiceAppReproducer.pdb

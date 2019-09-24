@@ -1,0 +1,14 @@
+D:\projects\R&D\IgniteReproducerServer\bin\Debug\netcoreapp2.2\IgniteReproducerServer.dll
+D:\projects\R&D\IgniteReproducerServer\bin\Debug\netcoreapp2.2\BusinnesModels.dll
+D:\projects\R&D\IgniteReproducerServer\bin\Debug\netcoreapp2.2\BusinnesModels.pdb
+D:\projects\R&D\IgniteReproducerServer\obj\Debug\netcoreapp2.2\IgniteReproducerServer.csprojAssemblyReference.cache
+D:\projects\R&D\IgniteReproducerServer\obj\Debug\netcoreapp2.2\IgniteReproducerServer.csproj.CoreCompileInputs.cache
+D:\projects\R&D\IgniteReproducerServer\obj\Debug\netcoreapp2.2\IgniteReproducerServer.AssemblyInfoInputs.cache
+D:\projects\R&D\IgniteReproducerServer\obj\Debug\netcoreapp2.2\IgniteReproducerServer.AssemblyInfo.cs
+D:\projects\R&D\IgniteReproducerServer\obj\Debug\netcoreapp2.2\IgniteReproducerServer.csproj.CopyComplete
+D:\projects\R&D\IgniteReproducerServer\obj\Debug\netcoreapp2.2\IgniteReproducerServer.dll
+D:\projects\R&D\IgniteReproducerServer\obj\Debug\netcoreapp2.2\IgniteReproducerServer.pdb
+D:\projects\R&D\IgniteReproducerServer\bin\Debug\netcoreapp2.2\IgniteReproducerServer.deps.json
+D:\projects\R&D\IgniteReproducerServer\bin\Debug\netcoreapp2.2\IgniteReproducerServer.runtimeconfig.json
+D:\projects\R&D\IgniteReproducerServer\bin\Debug\netcoreapp2.2\IgniteReproducerServer.runtimeconfig.dev.json
+D:\projects\R&D\IgniteReproducerServer\bin\Debug\netcoreapp2.2\IgniteReproducerServer.pdb
